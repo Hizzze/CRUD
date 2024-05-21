@@ -19,8 +19,3 @@ To provide a hands-on example of building and consuming RESTful APIs.
 To demonstrate the best practices in API development using ASP.NET Core.
 To offer a foundational project that can be expanded with additional features and complexities.
 
-💡 How to Use:
-Clone the repository to your local machine.
-Set up the database by running the provided SQL scripts.
-Run the application using Visual Studio or the .NET CLI.
-Explore the API using Swagger or Postman.
