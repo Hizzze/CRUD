@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FpBUDqbeB5Pv1PWtx3r6RLCuaoZrMO3ww5PQnKPnioCf8JOeiekB71C/jVW+nvAdHkV87/XNIhSWjx2K7j17HA==",
+  "dgSpecHash": "aMuoslbbm9qQ9CfUBenAuvxs0t5yeYxcvyevmclMIwljqlewEAagvxTcOUIiQG97RkPIG6rg0mVStfM9WadWMg==",
   "success": true,
   "projectFilePath": "/Users/vlad/RiderProjects/PersonCrud/PersonCrud.DataAccess/PersonCrud.DataAccess.csproj",
   "expectedPackageFiles": [

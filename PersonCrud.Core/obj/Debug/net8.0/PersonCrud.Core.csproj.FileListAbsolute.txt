@@ -1,0 +1,15 @@
+/Users/vlad/RiderProjects/PersonCrud/PersonCrud.Core/bin/Debug/net8.0/PersonCrud.Core.deps.json
+/Users/vlad/RiderProjects/PersonCrud/PersonCrud.Core/bin/Debug/net8.0/PersonCrud.Core.runtimeconfig.json
+/Users/vlad/RiderProjects/PersonCrud/PersonCrud.Core/bin/Debug/net8.0/PersonCrud.Core.dll
+/Users/vlad/RiderProjects/PersonCrud/PersonCrud.Core/bin/Debug/net8.0/PersonCrud.Core.pdb
+/Users/vlad/RiderProjects/PersonCrud/PersonCrud.Core/obj/Debug/net8.0/PersonCrud.Core.csproj.AssemblyReference.cache
+/Users/vlad/RiderProjects/PersonCrud/PersonCrud.Core/obj/Debug/net8.0/PersonCrud.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vlad/RiderProjects/PersonCrud/PersonCrud.Core/obj/Debug/net8.0/PersonCrud.Core.AssemblyInfoInputs.cache
+/Users/vlad/RiderProjects/PersonCrud/PersonCrud.Core/obj/Debug/net8.0/PersonCrud.Core.AssemblyInfo.cs
+/Users/vlad/RiderProjects/PersonCrud/PersonCrud.Core/obj/Debug/net8.0/PersonCrud.Core.csproj.CoreCompileInputs.cache
+/Users/vlad/RiderProjects/PersonCrud/PersonCrud.Core/obj/Debug/net8.0/PersonCrud.Core.sourcelink.json
+/Users/vlad/RiderProjects/PersonCrud/PersonCrud.Core/obj/Debug/net8.0/PersonCrud.Core.dll
+/Users/vlad/RiderProjects/PersonCrud/PersonCrud.Core/obj/Debug/net8.0/refint/PersonCrud.Core.dll
+/Users/vlad/RiderProjects/PersonCrud/PersonCrud.Core/obj/Debug/net8.0/PersonCrud.Core.pdb
+/Users/vlad/RiderProjects/PersonCrud/PersonCrud.Core/obj/Debug/net8.0/PersonCrud.Core.genruntimeconfig.cache
+/Users/vlad/RiderProjects/PersonCrud/PersonCrud.Core/obj/Debug/net8.0/ref/PersonCrud.Core.dll

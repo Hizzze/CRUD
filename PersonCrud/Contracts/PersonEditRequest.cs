@@ -1,6 +1,3 @@
 namespace PersonCrud.Contracts;
 
-public class PersonEditRequest
-{
-    
-}
+public record PersonEditRequest(string FirstName, string LastName, int Age);
